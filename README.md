@@ -1,6 +1,10 @@
 Solve any sudoku problem
 -----------------------------
 
+
+
+
+
 example 1:
 -----------
 Input:
@@ -26,7 +30,13 @@ True
 6 9 2 3 5 1 8 7 4
 7 4 5 2 8 6 3 1 9
 Explanation: 
-There exists a valid Sudoku for the input grid, which is shown in output.
+There exists a valid Sudoku for the input grid, which is shown in the output.
+
+
+
+
+
+
 
 
 
@@ -49,4 +59,14 @@ grid[][] =
 Output:
 False
 Explanation: 
-There does not exists a valid Sudoku for the input grid, since there are two 6s in the first row. Which cannot replaced.
+There does not exist a valid Sudoku for the input grid, since there are two 6s in the first row. Which cannot replaced.
+
+
+
+
+
+
+
+where  0 represent empty cell
+------------------------------
+
